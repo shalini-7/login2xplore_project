@@ -31,9 +31,12 @@ It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
 SAMPLE PROJECT
+<img width="1440" alt="Screenshot 2022-11-15 at 9 08 06 AM" src="https://user-images.githubusercontent.com/55787234/201837161-94127d1b-453b-4bfa-9ed9-b30efd9903d5.png">
+
 
 DATABASE AFTER IMPLEMENTATION OF GET, PUT , UPDATE
 
+<img width="584" alt="data base after put, get and update" src="https://user-images.githubusercontent.com/55787234/201837129-046608fc-323a-4cd9-bc19-186d86c8d554.png">
 
 
 
