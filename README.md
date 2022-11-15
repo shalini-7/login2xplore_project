@@ -1,6 +1,11 @@
-JsonPowerDB
+Login2Xplore jsondb mini project
 
- Features of JsonPowerDB are:
+description
+
+JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development. 
+In this mini project the implementation of CRUD commands have been done.
+
+Features of JsonPowerDB are:
 Nimble, simple to use, in memory, real time
 Schema free - easy to maintain
 Serverless support - fast development - cuts time to market
@@ -29,6 +34,8 @@ Schema-free, Simple to use, Nimble and In-Memory database.
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
+
+ILLUSTRATION
 
 SAMPLE PROJECT
 <img width="1440" alt="Screenshot 2022-11-15 at 9 08 06 AM" src="https://user-images.githubusercontent.com/55787234/201837161-94127d1b-453b-4bfa-9ed9-b30efd9903d5.png">
